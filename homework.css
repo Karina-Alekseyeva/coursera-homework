@@ -1,0 +1,74 @@
+body{
+    font-size: 15px;
+    color: #fff;
+    background-color: #ff7f50;
+    font-family: 'Spartan', sans-serif;
+}
+
+#header-nav{
+    background-color: yellow;
+    border-radius: 0;
+
+
+}
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+    text-decoration: none;
+}
+.navbar-brand{
+    padding-top: 30px;
+}
+.navbar-brand h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Spartan', sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.3;
+    color: #000;
+}
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
+    border: 1px solid #ff7f50;
+}
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -20px;
+}
+#nav-list a {
+    color: #000;
+    text-align: center;
+    background-color:#ffff00;
+
+}
+#nav-list a:hover {
+    background: #e7e7e7;
+}
+#nav-list a span {
+    font-size: 1.3em;
+}
+#menu h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color:#000;
+    font-family: 'Spartan', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.container .jumbotron{
+    box-shadow: 0 0 50px #ff7f50;
+    border: 2px solid #ff7f50;
+    background-color: #ffff00;
+    color: #000;
+    padding-top: 0;
+    font-family: 'Spartan', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+}
+.menu-name{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
